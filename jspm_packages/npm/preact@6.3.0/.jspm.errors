@@ -1,0 +1,266 @@
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/clone-element.js:1:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/clone-element.js:1:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/clone-element.js:1:31: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/clone-element.js:2:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/clone-element.js:2:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/clone-element.js:2:19: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/clone-element.js:4:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/clone-element.js:4:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:1:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:1:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:1:30: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:2:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:2:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:2:43: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:3:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:3:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:3:35: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:4:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:4:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:4:33: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:5:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:5:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:5:31: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:17:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/component.js:17:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:3:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:3:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:4:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:4:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:5:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:5:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:6:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:6:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:8:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:8:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:10:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:10:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:13:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:13:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:20:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/constants.js:20:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/recycler.js:1:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/recycler.js:1:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/recycler.js:1:29: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/recycler.js:2:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/recycler.js:2:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/recycler.js:2:28: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/recycler.js:8:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/recycler.js:8:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/recycler.js:20:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/recycler.js:20:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/h.js:1:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/h.js:1:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/h.js:1:23: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/h.js:2:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/h.js:2:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/h.js:2:16: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/h.js:2:21: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/h.js:17:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/h.js:17:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/linked-state.js:1:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/linked-state.js:1:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/linked-state.js:1:33: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/linked-state.js:10:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/linked-state.js:10:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/options.js:5:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/options.js:5:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/options.js:5:8: Unexpected reserved word default
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/options.js:5:16: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:1:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:1:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:1:19: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:2:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:2:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:2:30: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:3:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:3:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:3:27: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:4:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:4:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:4:24: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:5:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:5:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:5:26: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:6:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:6:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:6:16: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:6:21: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:8:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:8:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:8:8: Unexpected reserved word default
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:8:16: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:17:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/preact.js:17:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render-queue.js:1:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render-queue.js:1:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render-queue.js:1:16: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render-queue.js:1:21: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render-queue.js:2:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render-queue.js:2:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render-queue.js:2:23: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render-queue.js:3:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render-queue.js:3:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render-queue.js:3:33: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render-queue.js:10:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render-queue.js:10:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render-queue.js:17:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render-queue.js:17:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render.js:1:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render.js:1:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render.js:1:22: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render.js:18:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/render.js:18:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:5:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:5:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:16:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:16:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:24:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:24:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:33:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:33:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:39:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:39:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:47:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:47:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:61:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:61:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:68:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/util.js:68:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component-recycler.js:1:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component-recycler.js:1:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component-recycler.js:1:27: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component-recycler.js:10:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component-recycler.js:10:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component-recycler.js:18:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component-recycler.js:18:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:1:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:1:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:1:78: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:2:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:2:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:2:16: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:2:21: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:3:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:3:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:3:43: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:4:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:4:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:4:31: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:5:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:5:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:5:30: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:6:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:6:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:6:97: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:7:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:7:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:7:65: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:8:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:8:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:8:51: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:9:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:9:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:9:28: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:19:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:19:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:63:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:63:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:200:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:200:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:241:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/component.js:241:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:1:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:1:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:1:26: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:2:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:2:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:2:38: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:3:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:3:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:3:45: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:4:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:4:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:4:65: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:5:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:5:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:5:41: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:6:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:6:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:6:29: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:7:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:7:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:7:41: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:8:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:8:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:8:34: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:12:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:12:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:15:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:15:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:20:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:20:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:34:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:34:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:198:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:198:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:208:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/diff.js:208:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/functional-component.js:1:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/functional-component.js:1:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/functional-component.js:1:23: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/functional-component.js:2:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/functional-component.js:2:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/functional-component.js:2:30: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/functional-component.js:3:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/functional-component.js:3:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/functional-component.js:3:28: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/functional-component.js:12:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/functional-component.js:12:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/functional-component.js:23:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/functional-component.js:23:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vnode.js:2:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vnode.js:2:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/index.js:1:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/index.js:1:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/index.js:1:58: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/index.js:2:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/index.js:2:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/index.js:2:16: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/index.js:2:21: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/index.js:3:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/index.js:3:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/index.js:3:68: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/index.js:9:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/index.js:9:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/index.js:23:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/dom/index.js:23:8: Semi-colon expected
+
+MultipleErrors: /Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/index.js:1:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/index.js:1:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/index.js:1:58: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/index.js:2:1: Unexpected reserved word import
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/index.js:2:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/index.js:2:39: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/index.js:10:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/index.js:10:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/index.js:23:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/index.js:23:8: Semi-colon expected
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/index.js:35:1: Unexpected reserved word export
+/Users/jonathanjensen/.jspm/packages/npm/preact@6.3.0/src/vdom/index.js:35:8: Semi-colon expected
